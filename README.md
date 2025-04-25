@@ -10,8 +10,9 @@ Alison Alves, Prazer! · (he/him)
 Apaixonado por resolver problemas com código e aprender novas tecnologias.
 Fã de games, programação criativa e Cultura Geek
 ##
-🌱 Atualmente Aprendendo
 <p align="center">  
+🌱 Atualmente Aprendendo
+  <p align="center">  
 ▸Desenvolvimento em Android com Kotlin
   
 ##
