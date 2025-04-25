@@ -1,22 +1,22 @@
 <p align="center">
-Alison Alves, Prazer! (he/him)
+# Alison Alves, Prazer! ✨ *(he/him)*
   
 ##
 <p align="center">
-👨🏻‍💻 Graduando em Engenharia de Software
+**👨🏻‍💻 Graduando em Engenharia de Software**
 <p align="center">
-📌 Sobre Mim
+**📌 Sobre Mim**
 <p align="center">
 Apaixonado por resolver problemas com código e aprender novas tecnologias.
 Fã de games, programação criativa e Cultura Geek
 ##
-🌱 Atualmente Aprendendo
+🌱 **Atualmente Aprendendo**
 <p align="center">  
-Desenvolvimento em Android com Kotlin
+▸Desenvolvimento em Android com Kotlin
 ##
 💻 Linguagens & Ferramentas ja utilizadas:
 <p align="center">
-Python | Java | C# | Kotlin | MySQL | PostgreSQL
+▸Python | ▸Java | ▸C# | ▸Kotlin | ▸MySQL | ▸PostgreSQL
 </p>
 <div style="Display: inline_block"><br>
   <p align="center">
