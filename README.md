@@ -13,6 +13,7 @@ Fã de games, programação criativa e Cultura Geek
 🌱 Atualmente Aprendendo
 <p align="center">  
 ▸Desenvolvimento em Android com Kotlin
+  
 ##
  <p align="center">   
 💻 Linguagens & Ferramentas ja utilizadas:
