@@ -4,4 +4,3 @@
 - 💬 Ask me about Languages, programs, games and similars
 - 📫 How to reach me: alves.alii on instagram, or email: engalisonalves@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
