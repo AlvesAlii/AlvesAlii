@@ -31,7 +31,6 @@ Python | Java | C# | Kotlin | MySQL | PostgreSQL
 ##
   <p align="center">
 Some ways to contact me!
-<div>
   <p align="center">
 <a href="https://instagram.com/alves.alii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badge&logo-instagram&logoColor-white"
 target="_blank"></a>
@@ -44,14 +43,5 @@ target="_blank"></a>
 
 <div>
 
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc3ZndwMmllcmV4dm9yYjQydmNodjZrMjF6YTE4ZzhjdmQ4b2piYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
-</p>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoydDIzMHRuZ21vbmo2OGp3ZGtzd2NvNjIyY2V3bnlraWc0bXFweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" width="300" />
-</p>
-<p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZlOWloNWZpZ3AzamRwYnZ6Z2ZrNHplcXo3OXhjaHUyZHB0NTBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LBPi9kAlVrYkf4bmPs/giphy.gif" width="300" />
-</p>
 
 </div>
