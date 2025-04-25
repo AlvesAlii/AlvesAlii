@@ -3,7 +3,9 @@
 - Ask me about Languages, programs, games and similars
 - How to reach me: alves.alii on instagram, or email: engalisonalves@gmail.com
 - Pronouns: He/Him
-  ##
+  
+##
+
 <div>
 <div style="Display: inline_block"><br>
   <img aligin= "center" alt ="Ali-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />       
