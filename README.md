@@ -27,6 +27,7 @@ target="_blank"></a>
 </div>
 
 ##
+
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlvesAlii/AlvesAlii/output/pacman-contribution-graph-dark.svg">
@@ -43,10 +44,12 @@ target="_blank"></a>
 
 <div>
 
-  <p align="center">
-  <img src="https://media.giphy.com/media/kdFcP3iyCs7Ek/giphy.gif" width="300" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
+<p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31heiknuqzamt4r3gdgigc6lbdqy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
 
 </div>
