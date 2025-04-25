@@ -14,7 +14,7 @@ Fã de games, programação criativa e Cultura Geek
 <p align="center">  
 ▸Desenvolvimento em Android com Kotlin
 ##
-  
+ <p align="center">   
 💻 Linguagens & Ferramentas ja utilizadas:
 <p align="center">
 ▸Python | ▸Java | ▸C# | ▸Kotlin | ▸MySQL | ▸PostgreSQL
