@@ -29,18 +29,6 @@ target="_blank"></a>
 ##
 
 <div>
-<p align="center">
-  <img src="./pacman-contributions.svg" alt="Pac-Man contribution graph" />
-</p>
-
-<p align="center">
-  <sub>Gerado com <a href="https://abozanona.github.io/pacman-contribution-graph/">Pacman Contribution Graph</a></sub>
-</p>
-<div>
-
-##
-
-<div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
