@@ -1,13 +1,25 @@
-- I’m currently learning Software Engineering
-- I’m looking to collaborate on college works
-- Ask me about Languages, programs, games and similars
-- How to reach me: alves.alii on instagram, or email: engalisonalves@gmail.com
-- Pronouns: He/Him
+<p align="center">
+Alison Alves, Prazer! (he/him)
   
 ##
-
-<div>
+<p align="center">
+👨🏻‍💻 Graduando em Engenharia de Software
+<p align="center">
+📌 Sobre Mim
+<p align="center">
+Apaixonado por resolver problemas com código e aprender novas tecnologias.
+Fã de games, programação criativa e Cultura Geek
+##
+🌱 Atualmente Aprendendo
+<p align="center">  
+Desenvolvimento em Android com Kotlin
+##
+💻 Linguagens & Ferramentas ja utilizadas:
+<p align="center">
+Python | Java | C# | Kotlin | MySQL | PostgreSQL
+</p>
 <div style="Display: inline_block"><br>
+  <p align="center">
   <img aligin= "center" alt ="Ali-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />       
   <img aligin= "center" alt ="Ali-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img aligin= "center" alt ="Ali-C++++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -17,8 +29,10 @@
 </div>
   
 ##
-  
+  <p align="center">
+Some ways to contact me!
 <div>
+  <p align="center">
 <a href="https://instagram.com/alves.alii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F?style-for-the-badge&logo-instagram&logoColor-white"
 target="_blank"></a>
 <a href="mailto: engalisonalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style-for-the-badge&logo-gmail&logoColor-white" target="_blank"></a>
@@ -30,12 +44,14 @@ target="_blank"></a>
 
 <div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc3ZndwMmllcmV4dm9yYjQydmNodjZrMjF6YTE4ZzhjdmQ4b2piYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
 </p>
-
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31heiknuqzamt4r3gdgigc6lbdqy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmoydDIzMHRuZ21vbmo2OGp3ZGtzd2NvNjIyY2V3bnlraWc0bXFweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.gif" width="300" />
+</p>
+<p align="right">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZlOWloNWZpZ3AzamRwYnZ6Z2ZrNHplcXo3OXhjaHUyZHB0NTBqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LBPi9kAlVrYkf4bmPs/giphy.gif" width="300" />
 </p>
 
 </div>
